@@ -34,16 +34,6 @@ Deploy and manage a sample application on a **local Kubernetes cluster** using *
 
 ---
 
-## 🖼️ Screenshots
-
-Screenshots included in the `screenshots/` folder:
-
-- Pods before and after scaling
-- Services output
-- Browser access to Nginx
-
----
-
 ## 🔧 How to Use
 
 ### 1. Start Minikube
